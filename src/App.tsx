@@ -1,10 +1,10 @@
 import React from "react";
-import TextInput from "./lib/dist/components/Input";
+import Input from "./lib/dist/components/Input";
 
 function App() {
   return (
     <div className="App">
-      <TextInput type="text" />
+      <Input type="text" />
     </div>
   );
 }
