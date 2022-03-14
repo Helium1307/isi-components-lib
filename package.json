@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Helium1307/isi-npm-lib"
+    "url": "https://github.com/Helium1307/isi-components-lib"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
