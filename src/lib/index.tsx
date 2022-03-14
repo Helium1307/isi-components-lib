@@ -1,2 +1,2 @@
-import Input from "./components/Input";
+import Input from "./dist/components/Input";
 export { Input };

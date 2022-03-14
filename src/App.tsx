@@ -1,5 +1,5 @@
 import React from "react";
-import TextInput from "./lib/components/Input";
+import TextInput from "./lib/dist/components/Input";
 
 function App() {
   return (
