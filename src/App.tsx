@@ -1,5 +1,5 @@
 import React from "react";
-import Input from "./lib/dist/components/Input";
+import Input from "./lib/dist/components/Input/Input";
 
 function App() {
   return (
