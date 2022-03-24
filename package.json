@@ -1,8 +1,8 @@
 {
   "name": "isi-components-lib",
   "version": "0.1.0",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/Helium1307/isi-components-lib"
