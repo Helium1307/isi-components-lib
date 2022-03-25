@@ -53,7 +53,7 @@
   },
   "nyc": {
     "include": [
-      "src/lib/dist/*/*.{ts,tsx}"
+      "src/lib/*/*.{ts,tsx}"
     ]
   }
 }
