@@ -20,6 +20,6 @@
     "jsx": "react",
     "skipLibCheck": true
   },
-  "include": ["src"],
+  "include": ["src", "types"],
   "exclude": ["node_modules", "**/__test__/*"]
 }
